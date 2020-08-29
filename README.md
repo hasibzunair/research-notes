@@ -14,6 +14,12 @@
 
 * [NeurIPS 2020 ML Code Completeness Checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
 
+
+### Useful links
+
+* [Directory of AI Benchmarks](https://benchmarks.ai/)
+
+
 ### Courses
 
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
