@@ -19,6 +19,8 @@
 
 * [Directory of AI Benchmarks](https://benchmarks.ai/)
 
+* [HowtoReadaCSResearchPaper?](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
+
 
 ### Courses
 
