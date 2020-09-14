@@ -6,6 +6,8 @@
 
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
+* [Learn X in Y: Python](https://learnxinyminutes.com/docs/python/)
+
 ### Blog posts
 
 * [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://amaarora.github.io/2020/08/13/efficientnet.html?fbclid=IwAR0vxBFGVrznJ-5YXJxfjfaAuXbaHlyf61sxTpHDbllXuEvp2Tf-0x_-aO8)
