@@ -10,11 +10,13 @@
 
 I have enumerated the resources in the drop-down extensions below!
 
-* <details open><summary>## Notes and Books</summary>
+* <details open><summary>Notes and Books</summary>
+
 - [Deep Learning Study Notes by Albert Pumarola](https://github.com/albertpumarola/deep-learning-notes)
 - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 - [Learn X in Y: Python](https://learnxinyminutes.com/docs/python/)
 - [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
+
 </details>
 
 * <details open><summary>Research</summary>
