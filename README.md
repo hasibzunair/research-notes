@@ -37,6 +37,7 @@ I have enumerated the resources in the drop-down extensions below!
 
 #### Software
 * [Python Debugger (My Gist)](https://gist.github.com/hasibzunair/b0d7509342e5ffe4f27d1fa242613334)
+* [Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 * [Open a GitHub notebook in Colab](https://colab.research.google.com/github/)
 * [NeurIPS 2020 ML Code Completeness Checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
 * [How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
