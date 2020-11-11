@@ -24,6 +24,7 @@ I have enumerated the resources in the drop-down extensions below!
 
 * [Writing a Research Statement for Graduate School and Fellowships](https://h2r.cs.brown.edu/writing-a-research-statement-for-graduate-school-and-fellowships/)
 * [How to Read a CS Research Paper?](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
+* [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
 </details>
 
 <details><summary>Technical blog posts</summary>
@@ -34,6 +35,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Tutorial-about-3D-convolutional-network ](https://github.com/OValery16/Tutorial-about-3D-convolutional-network)
 * [A Review of Different Interpretation Methods in Deep Learning](https://medium.com/@mrsalehi/a-review-of-different-interpretation-methods-in-deep-learning-part-1-saliency-map-cam-grad-cam-3a34476bc24d)
 * [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
+* [Deep Semi-Supervised Learning](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
 
 #### Software
 * [Python Debugger (My Gist)](https://gist.github.com/hasibzunair/b0d7509342e5ffe4f27d1fa242613334)
