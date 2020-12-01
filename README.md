@@ -49,6 +49,13 @@ I have enumerated the resources in the drop-down extensions below!
 * [How to prevent Google Colab from disconnecting?](https://medium.com/@shivamrawat_756/how-to-prevent-google-colab-from-disconnecting-717b88a128c0)
 </details>
 
+#### AI in Industry
+* [Which Machine Learning Algorithm Should You Use By Problem Type?](https://medium.com/analytics-vidhya/which-machine-learning-algorithm-should-you-use-by-problem-type-a53967326566)
+* [Which analytics approaches to manage an Artificial Intelligence project? Quick guide for newbies.](https://medium.com/decathlondevelopers/which-analytics-approaches-to-manage-an-artificial-intelligence-project-quick-guide-for-newbies-1a4411a01b23)
+* [Ultimate AI Strategy Guide](https://towardsdatascience.com/ultimate-ai-strategy-guide-9bfb5e9ecf4e)
+* [How I Built and Deployed a Fun Serverless Machine Learning App](https://towardsdatascience.com/building-and-deploying-cartoonify-b4786b382d7e)
+* [I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
+
 <details><summary>Online courses</summary>
 
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
