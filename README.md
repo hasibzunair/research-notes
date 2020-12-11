@@ -47,6 +47,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Running a Jupyter notebook from a remote server](https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/)
 * [Accessing external data from Google Colab notebooks](https://ostrokach.gitlab.io/post/google-colab-storage/)
 * [How to prevent Google Colab from disconnecting?](https://medium.com/@shivamrawat_756/how-to-prevent-google-colab-from-disconnecting-717b88a128c0)
+* [Documenting Python Code and Projects](https://testdriven.io/blog/documenting-python/)
 
 #### AI in Industry
 
