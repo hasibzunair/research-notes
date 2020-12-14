@@ -56,6 +56,8 @@ I have enumerated the resources in the drop-down extensions below!
 * [Ultimate AI Strategy Guide](https://towardsdatascience.com/ultimate-ai-strategy-guide-9bfb5e9ecf4e)
 * [How I Built and Deployed a Fun Serverless Machine Learning App](https://towardsdatascience.com/building-and-deploying-cartoonify-b4786b382d7e)
 * [I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
+* [10 tips to improve your machine learning models with TensorFlow](https://medium.com/decathlondevelopers/10-tips-to-improve-your-machine-learning-models-with-tensorflow-ba7c724761e2)
+* [Introducing DecaVision to train image classifiers with Google’s free TPUs](https://medium.com/decathlondevelopers/introducing-decavision-to-train-image-classifiers-with-googles-free-tpus-8d216db8ad53)
 
 </details>
 <details><summary>Online courses</summary>
