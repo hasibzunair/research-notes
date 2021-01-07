@@ -58,6 +58,8 @@ I have enumerated the resources in the drop-down extensions below!
 * [I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
 * [10 tips to improve your machine learning models with TensorFlow](https://medium.com/decathlondevelopers/10-tips-to-improve-your-machine-learning-models-with-tensorflow-ba7c724761e2)
 * [Introducing DecaVision to train image classifiers with Google’s free TPUs](https://medium.com/decathlondevelopers/introducing-decavision-to-train-image-classifiers-with-googles-free-tpus-8d216db8ad53)
+* [Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
+* [Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
 
 </details>
 <details><summary>Online courses</summary>
