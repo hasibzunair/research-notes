@@ -1,6 +1,5 @@
 # Notes and resources useful in my projects.
 
-
 ## Topics
 
 * Notes and Books
