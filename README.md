@@ -6,7 +6,7 @@
 * Notes and Books
 * Research
 * Technical blog posts
-* Course materials
+* Tutorials
 
 I have enumerated the resources in the drop-down extensions below!
 
@@ -25,6 +25,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Writing a Research Statement for Graduate School and Fellowships](https://h2r.cs.brown.edu/writing-a-research-statement-for-graduate-school-and-fellowships/)
 * [How to Read a CS Research Paper?](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
 * [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
+
 </details>
 
 <details><summary>Technical blog posts</summary>
@@ -62,12 +63,18 @@ I have enumerated the resources in the drop-down extensions below!
 * [Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
 
 </details>
-<details><summary>Online courses</summary>
 
+<details><summary>Tutorials</summary>
+
+#### Online Courses
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
+#### Online resources 
+* [Great-Deep-Learning-Tutorials](https://github.com/ahkarami/Great-Deep-Learning-Tutorials)
+* [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
+* [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
 </details>
-
-
 
