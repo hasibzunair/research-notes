@@ -37,6 +37,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [A Review of Different Interpretation Methods in Deep Learning](https://medium.com/@mrsalehi/a-review-of-different-interpretation-methods-in-deep-learning-part-1-saliency-map-cam-grad-cam-3a34476bc24d)
 * [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
 * [Deep Semi-Supervised Learning](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
+* [Facebook & NYU reduce Covid hospital strain — Covid Prognosis Via Self-Supervised Learning](https://towardsdatascience.com/facebook-nyu-reduce-covid-hospital-strain-covid-prognosis-via-self-supervised-learning-a30581b5e235)
 
 #### Software
 * [Python Debugger (My Gist)](https://gist.github.com/hasibzunair/b0d7509342e5ffe4f27d1fa242613334)
