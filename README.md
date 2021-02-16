@@ -72,6 +72,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 #### Online resources 
+* [Image Kernels](https://setosa.io/ev/image-kernels/)
 * [Great-Deep-Learning-Tutorials](https://github.com/ahkarami/Great-Deep-Learning-Tutorials)
 * [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
 * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
