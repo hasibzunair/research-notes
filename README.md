@@ -62,7 +62,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Introducing DecaVision to train image classifiers with Google’s free TPUs](https://medium.com/decathlondevelopers/introducing-decavision-to-train-image-classifiers-with-googles-free-tpus-8d216db8ad53)
 * [Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
 * [Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
-
+* [Data Scientists Don't Care About Kubernetes](https://determined.ai/blog/data-scientists-dont-care-about-kubernetes/)
 </details>
 
 <details><summary>Tutorials</summary>
