@@ -6,7 +6,7 @@
 * Notes and Books
 * Research
 * Technical blog posts
-* Course materials
+* Tutorials
 
 I have enumerated the resources in the drop-down extensions below!
 
@@ -25,6 +25,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Writing a Research Statement for Graduate School and Fellowships](https://h2r.cs.brown.edu/writing-a-research-statement-for-graduate-school-and-fellowships/)
 * [How to Read a CS Research Paper?](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
 * [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
+
 </details>
 
 <details><summary>Technical blog posts</summary>
@@ -36,6 +37,8 @@ I have enumerated the resources in the drop-down extensions below!
 * [A Review of Different Interpretation Methods in Deep Learning](https://medium.com/@mrsalehi/a-review-of-different-interpretation-methods-in-deep-learning-part-1-saliency-map-cam-grad-cam-3a34476bc24d)
 * [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
 * [Deep Semi-Supervised Learning](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
+* [Facebook & NYU reduce Covid hospital strain — Covid Prognosis Via Self-Supervised Learning](https://towardsdatascience.com/facebook-nyu-reduce-covid-hospital-strain-covid-prognosis-via-self-supervised-learning-a30581b5e235)
+* [Zero-Shot Learning](https://cetinsamet.medium.com/zero-shot-learning-53080995d45f)
 
 #### Software
 * [Python Debugger (My Gist)](https://gist.github.com/hasibzunair/b0d7509342e5ffe4f27d1fa242613334)
@@ -59,14 +62,23 @@ I have enumerated the resources in the drop-down extensions below!
 * [I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
 * [10 tips to improve your machine learning models with TensorFlow](https://medium.com/decathlondevelopers/10-tips-to-improve-your-machine-learning-models-with-tensorflow-ba7c724761e2)
 * [Introducing DecaVision to train image classifiers with Google’s free TPUs](https://medium.com/decathlondevelopers/introducing-decavision-to-train-image-classifiers-with-googles-free-tpus-8d216db8ad53)
-
+* [Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
+* [Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
+* [Data Scientists Don't Care About Kubernetes](https://determined.ai/blog/data-scientists-dont-care-about-kubernetes/)
 </details>
-<details><summary>Online courses</summary>
 
+<details><summary>Tutorials</summary>
+
+#### Online Courses
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
+#### Online resources 
+* [Image Kernels](https://setosa.io/ev/image-kernels/)
+* [Great-Deep-Learning-Tutorials](https://github.com/ahkarami/Great-Deep-Learning-Tutorials)
+* [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
+* [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
 </details>
-
-
 
