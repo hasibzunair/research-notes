@@ -48,6 +48,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Accessing external data from Google Colab notebooks](https://ostrokach.gitlab.io/post/google-colab-storage/)
 * [How to prevent Google Colab from disconnecting?](https://medium.com/@shivamrawat_756/how-to-prevent-google-colab-from-disconnecting-717b88a128c0)
 * [Documenting Python Code and Projects](https://testdriven.io/blog/documenting-python/)
+* [10 Useful Jupyter Notebook Extensions for a Data Scientist](https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e)
 
 #### AI in Industry
 
