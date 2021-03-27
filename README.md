@@ -72,6 +72,7 @@ I have enumerated the resources in the drop-down extensions below!
 #### Online Courses
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+* [Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)](https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html)
 
 #### Online resources 
 * [Image Kernels](https://setosa.io/ev/image-kernels/)
