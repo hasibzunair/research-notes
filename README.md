@@ -22,9 +22,11 @@ I have enumerated the resources in the drop-down extensions below!
 
 <details><summary>Research</summary>
 
+* [How to write the introduction, Kate Saenko](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/edit#slide=id.p)
 * [Writing a Research Statement for Graduate School and Fellowships](https://h2r.cs.brown.edu/writing-a-research-statement-for-graduate-school-and-fellowships/)
 * [How to Read a CS Research Paper?](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
 * [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
+* [Reproducible Research Checklist](https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/Checklist/Reproducible%20Research%20Checklist.pdf)
 
 </details>
 
@@ -73,6 +75,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 * [Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)](https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html)
+* [Data Preparation and Feature Engineering in ML](https://developers.google.com/machine-learning/data-prep/)
 
 #### Online resources 
 * [Image Kernels](https://setosa.io/ev/image-kernels/)
