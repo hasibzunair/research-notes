@@ -67,6 +67,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
 * [Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
 * [Data Scientists Don't Care About Kubernetes](https://determined.ai/blog/data-scientists-dont-care-about-kubernetes/)
+* [Our AI ML Startups Tech Stack](https://towardsdatascience.com/our-ai-ml-startups-tech-stack-37869883d0b6)
 </details>
 
 <details><summary>Tutorials</summary>
