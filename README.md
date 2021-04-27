@@ -41,6 +41,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Deep Semi-Supervised Learning](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
 * [Facebook & NYU reduce Covid hospital strain — Covid Prognosis Via Self-Supervised Learning](https://towardsdatascience.com/facebook-nyu-reduce-covid-hospital-strain-covid-prognosis-via-self-supervised-learning-a30581b5e235)
 * [Zero-Shot Learning](https://cetinsamet.medium.com/zero-shot-learning-53080995d45f)
+* [List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 
 #### Software
 * [Python Debugger (My Gist)](https://gist.github.com/hasibzunair/b0d7509342e5ffe4f27d1fa242613334)
