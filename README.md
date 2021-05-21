@@ -27,6 +27,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [How to Read a CS Research Paper?](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
 * [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
 * [Reproducible Research Checklist](https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/Checklist/Reproducible%20Research%20Checklist.pdf)
+* [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
 
 </details>
 
@@ -68,6 +69,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
 * [Data Scientists Don't Care About Kubernetes](https://determined.ai/blog/data-scientists-dont-care-about-kubernetes/)
 * [Our AI ML Startups Tech Stack](https://towardsdatascience.com/our-ai-ml-startups-tech-stack-37869883d0b6)
+* [Full Stack Deep Learning: Detecting deforestation from satellite images](https://towardsdatascience.com/detecting-deforestation-from-satellite-images-7aa6dfbd9f61)
 </details>
 
 <details><summary>Tutorials</summary>
