@@ -80,6 +80,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 * [Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)](https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html)
 * [Data Preparation and Feature Engineering in ML](https://developers.google.com/machine-learning/data-prep/)
+* [AIMS 2020, class on Visual Recognition by Georgia Gkioxari](https://github.com/gkioxari/aims2020_visualrecognition)
 
 #### Online resources 
 * [Image Kernels](https://setosa.io/ev/image-kernels/)
