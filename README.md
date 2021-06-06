@@ -56,6 +56,9 @@ I have enumerated the resources in the drop-down extensions below!
 * [How to prevent Google Colab from disconnecting?](https://medium.com/@shivamrawat_756/how-to-prevent-google-colab-from-disconnecting-717b88a128c0)
 * [Documenting Python Code and Projects](https://testdriven.io/blog/documenting-python/)
 * [10 Useful Jupyter Notebook Extensions for a Data Scientist](https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e)
+* [How to improve software engineering skills as a researcher](https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/)
+* [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+
 
 #### AI in Industry
 
