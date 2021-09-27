@@ -29,6 +29,8 @@ I have enumerated the resources in the drop-down extensions below!
 * [Reproducible Research Checklist](https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/Checklist/Reproducible%20Research%20Checklist.pdf)
 * [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
 * [How to be organized & productive during your PhD](https://github.com/wuningxi/Talks/blob/main/2020_How_to_be_organised_and_productive_during_your_PhD.pdf)
+* [How to Read Research Papers (Andrew Ng)](https://forums.fast.ai/t/how-to-read-research-papers-andrew-ng/66892)
+* [Career Advice / Reading Research Papers, Andrew Ng](https://youtu.be/733m6qBH-jI)
 
 </details>
 
