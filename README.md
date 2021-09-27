@@ -31,7 +31,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [How to be organized & productive during your PhD](https://github.com/wuningxi/Talks/blob/main/2020_How_to_be_organised_and_productive_during_your_PhD.pdf)
 * [How to Read Research Papers (Andrew Ng)](https://forums.fast.ai/t/how-to-read-research-papers-andrew-ng/66892)
 * [Career Advice / Reading Research Papers, Andrew Ng](https://youtu.be/733m6qBH-jI)
-
+* [How You Should Read Research Papers According To Andrew Ng (Stanford Deep Learning Lectures), Medium](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
 </details>
 
 <details><summary>Technical blog posts</summary>
