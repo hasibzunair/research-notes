@@ -32,11 +32,15 @@ I have enumerated the resources in the drop-down extensions below!
 * [How to Read Research Papers (Andrew Ng)](https://forums.fast.ai/t/how-to-read-research-papers-andrew-ng/66892)
 * [Career Advice / Reading Research Papers, Andrew Ng](https://youtu.be/733m6qBH-jI)
 * [How You Should Read Research Papers According To Andrew Ng (Stanford Deep Learning Lectures), Medium](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
+* [How to Get Your CVPR Paper Rejected?](https://personalinterests.lipingyang.org/wp-content/uploads/2019/03/How-to-get-your-CVPR-paper-rejected.pptx.pdf)
+
 </details>
 
 <details><summary>Technical blog posts</summary>
 
 #### Computer vision and deep learning
+
+* [How to start a deep learning project?](https://threadreaderapp.com/thread/1441027241870118913.html)
 * [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://amaarora.github.io/2020/08/13/efficientnet.html?fbclid=IwAR0vxBFGVrznJ-5YXJxfjfaAuXbaHlyf61sxTpHDbllXuEvp2Tf-0x_-aO8)
 * [How to Do Data Exploration for Image Segmentation and Object Detection](https://neptune.ai/blog/data-exploration-for-image-segmentation-and-object-detection)
 * [Tutorial-about-3D-convolutional-network ](https://github.com/OValery16/Tutorial-about-3D-convolutional-network)
