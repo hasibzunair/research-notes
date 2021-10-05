@@ -101,7 +101,6 @@ I have enumerated the resources in the drop-down extensions below!
 * [Image Kernels](https://setosa.io/ev/image-kernels/)
 * [A Complete Machine Learning Package 2021, Jean de Dieu Nyandwi](https://github.com/Nyandwi/machine_learning_complete)
 * [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
-* [Great-Deep-Learning-Tutorials](https://github.com/ahkarami/Great-Deep-Learning-Tutorials)
 * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
