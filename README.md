@@ -34,7 +34,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Career Advice / Reading Research Papers, Andrew Ng](https://youtu.be/733m6qBH-jI)
 * [How You Should Read Research Papers According To Andrew Ng (Stanford Deep Learning Lectures), Medium](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
 * [How to Get Your CVPR Paper Rejected?](https://personalinterests.lipingyang.org/wp-content/uploads/2019/03/How-to-get-your-CVPR-paper-rejected.pptx.pdf)
-* [Awesome Tips on various topics by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips)
+* [Awesome Tips on various research topics by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips)
 
 </details>
 
