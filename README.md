@@ -1,8 +1,6 @@
 # Notes and resources useful in my projects.
 
-
 ## Topics
-
 * Notes and Books
 * Research
 * Technical blog posts
@@ -40,7 +38,7 @@ I have enumerated the resources in the drop-down extensions below!
 
 <details><summary>Technical blog posts</summary>
 
-#### Computer vision and deep learning
+### Computer vision and deep learning
 
 * [How to start a deep learning project?](https://threadreaderapp.com/thread/1441027241870118913.html)
 * [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://amaarora.github.io/2020/08/13/efficientnet.html?fbclid=IwAR0vxBFGVrznJ-5YXJxfjfaAuXbaHlyf61sxTpHDbllXuEvp2Tf-0x_-aO8)
@@ -53,7 +51,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Zero-Shot Learning](https://cetinsamet.medium.com/zero-shot-learning-53080995d45f)
 * [List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 
-#### Software
+### Software
 * [Python Debugger (My Gist)](https://gist.github.com/hasibzunair/b0d7509342e5ffe4f27d1fa242613334)
 * [Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 * [Open a GitHub notebook in Colab](https://colab.research.google.com/github/)
@@ -69,7 +67,7 @@ I have enumerated the resources in the drop-down extensions below!
 * [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 
 
-#### AI in Industry
+### AI in Industry
 
 * [Which Machine Learning Algorithm Should You Use By Problem Type?](https://medium.com/analytics-vidhya/which-machine-learning-algorithm-should-you-use-by-problem-type-a53967326566)
 * [Which analytics approaches to manage an Artificial Intelligence project? Quick guide for newbies.](https://medium.com/decathlondevelopers/which-analytics-approaches-to-manage-an-artificial-intelligence-project-quick-guide-for-newbies-1a4411a01b23)
@@ -87,7 +85,7 @@ I have enumerated the resources in the drop-down extensions below!
 
 <details><summary>Tutorials</summary>
 
-#### Online Courses
+### Online Courses
 
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [CS229: Machine Learning, 2021](http://cs229.stanford.edu/)
@@ -98,11 +96,12 @@ I have enumerated the resources in the drop-down extensions below!
 * [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
 
 
-#### Online resources 
+### Online resources
 
 * [Image Kernels](https://setosa.io/ev/image-kernels/)
-* [Great-Deep-Learning-Tutorials](https://github.com/ahkarami/Great-Deep-Learning-Tutorials)
+* [A Complete Machine Learning Package 2021, Jean de Dieu Nyandwi](https://github.com/Nyandwi/machine_learning_complete)
 * [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
+* [Great-Deep-Learning-Tutorials](https://github.com/ahkarami/Great-Deep-Learning-Tutorials)
 * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
