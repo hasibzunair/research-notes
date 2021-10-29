@@ -6,7 +6,7 @@
 * Technical blog posts
 * Tutorials
 
-I have enumerated the resources in the drop-down extensions below!
+I have listed the resources in the drop-down extensions below!
 
 <details><summary>Notes and Books</summary>
 
@@ -33,6 +33,8 @@ I have enumerated the resources in the drop-down extensions below!
 * [How You Should Read Research Papers According To Andrew Ng (Stanford Deep Learning Lectures), Medium](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
 * [How to Get Your CVPR Paper Rejected?](https://personalinterests.lipingyang.org/wp-content/uploads/2019/03/How-to-get-your-CVPR-paper-rejected.pptx.pdf)
 * [Awesome Tips on various research topics by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips)
+* [How to do research, Bill Freeman, CSAIL, MIT](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
+* [Research Advice, Joseph Paul Cohen, Mila](https://josephpcohen.com/w/research-advice/)
 
 </details>
 
