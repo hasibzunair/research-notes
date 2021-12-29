@@ -35,6 +35,8 @@ I have listed the resources in the drop-down extensions below!
 * [Awesome Tips on various research topics by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips)
 * [How to do research, Bill Freeman, CSAIL, MIT](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
 * [Research Advice, Joseph Paul Cohen, Mila](https://josephpcohen.com/w/research-advice/)
+* [Lessons from my PhD, Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
+
 
 </details>
 
