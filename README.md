@@ -20,6 +20,7 @@ I have listed the resources in the drop-down extensions below!
 
 <details><summary>Research</summary>
 
+* [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
 * [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 * [How to write the introduction, Kate Saenko](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/edit#slide=id.p)
 * [Writing a Research Statement for Graduate School and Fellowships](https://h2r.cs.brown.edu/writing-a-research-statement-for-graduate-school-and-fellowships/)
