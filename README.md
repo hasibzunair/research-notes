@@ -74,6 +74,7 @@ I have listed the resources in the drop-down extensions below!
 
 ### AI in Industry
 
+* [What is the Team Data Science Process?](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
 * [Which Machine Learning Algorithm Should You Use By Problem Type?](https://medium.com/analytics-vidhya/which-machine-learning-algorithm-should-you-use-by-problem-type-a53967326566)
 * [Which analytics approaches to manage an Artificial Intelligence project? Quick guide for newbies.](https://medium.com/decathlondevelopers/which-analytics-approaches-to-manage-an-artificial-intelligence-project-quick-guide-for-newbies-1a4411a01b23)
 * [Ultimate AI Strategy Guide](https://towardsdatascience.com/ultimate-ai-strategy-guide-9bfb5e9ecf4e)
