@@ -100,7 +100,7 @@ I have listed the resources in the drop-down extensions below!
 * [Data Preparation and Feature Engineering in ML](https://developers.google.com/machine-learning/data-prep/)
 * [AIMS 2020, class on Visual Recognition by Georgia Gkioxari](https://github.com/gkioxari/aims2020_visualrecognition)
 * [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
-
+* [MLOps-Basics, 2022](https://github.com/graviraja/MLOps-Basics)
 
 ### Online resources
 
