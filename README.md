@@ -26,6 +26,7 @@ I have listed the resources in the drop-down extensions below!
 * [Writing a Research Statement for Graduate School and Fellowships](https://h2r.cs.brown.edu/writing-a-research-statement-for-graduate-school-and-fellowships/)
 * [How to Read a CS Research Paper?](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
 * [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
+* [EqnEditor](https://editor.codecogs.com/)
 * [Reproducible Research Checklist](https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/Checklist/Reproducible%20Research%20Checklist.pdf)
 * [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
 * [How to be organized & productive during your PhD](https://github.com/wuningxi/Talks/blob/main/2020_How_to_be_organised_and_productive_during_your_PhD.pdf)
