@@ -36,6 +36,7 @@ I have listed the resources in the drop-down extensions below!
 * [How to do research, Bill Freeman, CSAIL, MIT](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
 * [Research Advice, Joseph Paul Cohen, Mila](https://josephpcohen.com/w/research-advice/)
 * [Lessons from my PhD, Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
+* [How to navigate through the ML research information flood, Dmytro Mishkin](http://cmp.felk.cvut.cz/~mishkdmy/slides/How_to_navigate_no_animation.pdf)
 
 ### Useful tools for research
 * [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
