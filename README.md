@@ -16,6 +16,8 @@ I have listed the resources in the drop-down extensions below!
 * [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Graph Representation Learning, William L. Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
+* [The Good Research Code Handbook, Patrick Mineault](https://goodresearch.dev/)
+
 </details>
 
 <details><summary>Research</summary>
