@@ -78,7 +78,6 @@ I have listed the resources in the drop-down extensions below!
 * [10 Useful Jupyter Notebook Extensions for a Data Scientist](https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e)
 * [How to improve software engineering skills as a researcher](https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/)
 * [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
-* [Effective testing for machine learning systems.](https://www.jeremyjordan.me/testing-ml/)
 
 ### AI in Industry
 
@@ -95,6 +94,7 @@ I have listed the resources in the drop-down extensions below!
 * [Data Scientists Don't Care About Kubernetes](https://determined.ai/blog/data-scientists-dont-care-about-kubernetes/)
 * [Our AI ML Startups Tech Stack](https://towardsdatascience.com/our-ai-ml-startups-tech-stack-37869883d0b6)
 * [Full Stack Deep Learning: Detecting deforestation from satellite images](https://towardsdatascience.com/detecting-deforestation-from-satellite-images-7aa6dfbd9f61)
+[Effective testing for machine learning systems.](https://www.jeremyj    ordan.me/testing-ml/)
 </details>
 
 <details><summary>Tutorials</summary>
