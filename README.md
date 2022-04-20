@@ -94,7 +94,7 @@ I have listed the resources in the drop-down extensions below!
 * [Data Scientists Don't Care About Kubernetes](https://determined.ai/blog/data-scientists-dont-care-about-kubernetes/)
 * [Our AI ML Startups Tech Stack](https://towardsdatascience.com/our-ai-ml-startups-tech-stack-37869883d0b6)
 * [Full Stack Deep Learning: Detecting deforestation from satellite images](https://towardsdatascience.com/detecting-deforestation-from-satellite-images-7aa6dfbd9f61)
-[Effective testing for machine learning systems.](https://www.jeremyj    ordan.me/testing-ml/)
+[Effective testing for machine learning systems.](https://www.jeremyjordan.me/testing-ml/)
 </details>
 
 <details><summary>Tutorials</summary>
