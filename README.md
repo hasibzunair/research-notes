@@ -69,6 +69,7 @@ I have listed the resources in the drop-down extensions below!
 * [Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 * [Open a GitHub notebook in Colab](https://colab.research.google.com/github/)
 * [NeurIPS 2020 ML Code Completeness Checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
+* [A template README.md for code accompanying a Machine Learning paper](https://github.com/paperswithcode/releasing-research-code/blob/master/templates/README.md)
 * [How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 * [Getting started open source](https://github.com/gabrieldemarmiesse/getting_started_open_source)
 * [Running a Jupyter notebook from a remote server](https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/)
