@@ -53,6 +53,7 @@ I have listed the resources in the drop-down extensions below!
 
 ### Computer vision and deep learning
 
+* [A Revised History of Deep Learning, Jean de Dieu Nyandwi](https://www.getrevue.co/profile/deeprevision/issues/a-revised-history-of-deep-learning-issue-1-1145664)
 * [How to start a deep learning project?](https://threadreaderapp.com/thread/1441027241870118913.html)
 * [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://amaarora.github.io/2020/08/13/efficientnet.html?fbclid=IwAR0vxBFGVrznJ-5YXJxfjfaAuXbaHlyf61sxTpHDbllXuEvp2Tf-0x_-aO8)
 * [How to Do Data Exploration for Image Segmentation and Object Detection](https://neptune.ai/blog/data-exploration-for-image-segmentation-and-object-detection)
