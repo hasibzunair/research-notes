@@ -40,7 +40,7 @@ I have listed the resources in the drop-down extensions below!
 * [Lessons from my PhD, Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
 * [How to navigate through the ML research information flood, Dmytro Mishkin](http://cmp.felk.cvut.cz/~mishkdmy/slides/How_to_navigate_no_animation.pdf)
 * [An Opinionated Guide to ML Research, John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
-
+* [A Year of MLC, Rosanne Liu](https://rosanneliu.com/post/a-year-of-mlc/)
 
 ### Useful tools for research
 * [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
