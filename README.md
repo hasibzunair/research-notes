@@ -41,6 +41,8 @@ I have listed the resources in the drop-down extensions below!
 * [How to navigate through the ML research information flood, Dmytro Mishkin](http://cmp.felk.cvut.cz/~mishkdmy/slides/How_to_navigate_no_animation.pdf)
 * [An Opinionated Guide to ML Research, John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
 * [A Year of MLC, Rosanne Liu](https://rosanneliu.com/post/a-year-of-mlc/)
+* [AI research: the unreasonably narrow path and how not to be miserable](https://youtu.be/0blQp0_9NwY)
+
 
 ### Useful tools for research
 * [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
