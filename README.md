@@ -84,7 +84,8 @@ I have listed the resources in the drop-down extensions below!
 * [How to improve software engineering skills as a researcher](https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/)
 * [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 * [Everything gets a package? Yes, everything gets a package.](https://ericmjl.github.io/blog/2022/3/31/everything-gets-a-package-yes-everything-gets-a-package/)
-
+* [Classifier Project Template, 
+Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/templates/pl_classifier)
 ### AI in Industry
 
 * [What is the Team Data Science Process?](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
