@@ -42,7 +42,8 @@ I have listed the resources in the drop-down extensions below!
 * [An Opinionated Guide to ML Research, John Schulman](http://joschu.net/blog/opinionated-guide-ml-research.html)
 * [A Year of MLC, Rosanne Liu](https://rosanneliu.com/post/a-year-of-mlc/)
 * [AI research: the unreasonably narrow path and how not to be miserable](https://youtu.be/0blQp0_9NwY)
-
+* [Research Statement, Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/2019_researchstatement.pdf)
+* [Research Statement, James Hays](http://www.cs.cmu.edu/~jhhays/info/hays_research.pdf)
 
 ### Useful tools for research
 * [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
