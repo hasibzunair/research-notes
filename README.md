@@ -5,6 +5,7 @@
 * Research
 * Technical blog posts
 * Tutorials
+* new line
 
 I have listed the resources in the drop-down extensions below!
 
@@ -118,6 +119,7 @@ Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/tem
 * [AIMS 2020, class on Visual Recognition by Georgia Gkioxari](https://github.com/gkioxari/aims2020_visualrecognition)
 * [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
 * [MLOps-Basics, 2022](https://github.com/graviraja/MLOps-Basics)
+* [Lightning Bits: Engineering for Researchers](https://github.com/PyTorchLightning/engineering-class)
 
 ### Online resources
 
