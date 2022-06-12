@@ -56,6 +56,8 @@ I have listed the resources in the drop-down extensions below!
 <details><summary>Technical blog posts</summary>
 
 ### Computer vision and deep learning
+* [The Early History of Computer Vision, Zbigatron](https://zbigatron.com/the-early-history-of-computer-vision/)
+* [Larry Roberts PhD Thesis, 1963](https://dspace.mit.edu/bitstream/handle/1721.1/11589/33959125-MIT.pdf?sequence=2&isAllowed=y)
 * [History of computer vision contests won by deep CNNs on GPU, Jürgen Schmidhuber](https://people.idsia.ch//~juergen/computer-vision-contests-won-by-gpu-cnns.html)
 * [A Revised History of Deep Learning, Jean de Dieu Nyandwi](https://www.getrevue.co/profile/deeprevision/issues/a-revised-history-of-deep-learning-issue-1-1145664)
 * [How to start a deep learning project?](https://threadreaderapp.com/thread/1441027241870118913.html)
