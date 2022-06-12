@@ -133,3 +133,5 @@ Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/tem
 
 </details>
 
+### Ack
+Inspired by https://github.com/hassony2/useful-computer-vision-phd-resources
