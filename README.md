@@ -10,7 +10,6 @@
 I have listed the resources in the drop-down extensions below!
 
 <details><summary>Notes and Books</summary>
-
 * [Deep Learning Study Notes by Albert Pumarola](https://github.com/albertpumarola/deep-learning-notes)
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * [Learn X in Y: Python](https://learnxinyminutes.com/docs/python/)
@@ -23,6 +22,7 @@ I have listed the resources in the drop-down extensions below!
 
 <details><summary>Research</summary>
 
+* [Personal Rules of Productive Research, Eugene Vinitsky](https://rlblogging.notion.site/Personal-Rules-of-Productive-Research-44a456bacf7c4805a9ea417b9d3ab1b3)
 * [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
 * [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 * [How to write the introduction, Kate Saenko](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/edit#slide=id.p)
