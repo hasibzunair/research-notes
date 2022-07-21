@@ -116,6 +116,7 @@ Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/tem
 
 ### Online Courses
 
+* [Deep Learning for Computer Vision, Justin Johnson, UMichigan, 2020](https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [CS229: Machine Learning, 2021](http://cs229.stanford.edu/)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
