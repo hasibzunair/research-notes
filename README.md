@@ -10,6 +10,7 @@
 I have listed the resources in the drop-down extensions below!
 
 <details><summary>Notes and Books</summary>
+
 * [Deep Learning Study Notes by Albert Pumarola](https://github.com/albertpumarola/deep-learning-notes)
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * [Learn X in Y: Python](https://learnxinyminutes.com/docs/python/)
@@ -22,6 +23,7 @@ I have listed the resources in the drop-down extensions below!
 
 <details><summary>Research</summary>
 
+* [Awesome Tips on various research topics by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips)
 * [Personal Rules of Productive Research, Eugene Vinitsky](https://rlblogging.notion.site/Personal-Rules-of-Productive-Research-44a456bacf7c4805a9ea417b9d3ab1b3)
 * [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
 * [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
@@ -35,7 +37,6 @@ I have listed the resources in the drop-down extensions below!
 * [Career Advice / Reading Research Papers, Andrew Ng](https://youtu.be/733m6qBH-jI)
 * [How You Should Read Research Papers According To Andrew Ng (Stanford Deep Learning Lectures), Medium](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
 * [How to Get Your CVPR Paper Rejected?](https://personalinterests.lipingyang.org/wp-content/uploads/2019/03/How-to-get-your-CVPR-paper-rejected.pptx.pdf)
-* [Awesome Tips on various research topics by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips)
 * [How to do research, Bill Freeman, CSAIL, MIT](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
 * [Research Advice, Joseph Paul Cohen, Mila](https://josephpcohen.com/w/research-advice/)
 * [Lessons from my PhD, Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
