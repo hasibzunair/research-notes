@@ -30,6 +30,7 @@ I have listed the resources in the drop-down extensions below!
 * [How to write the introduction, Kate Saenko](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/edit#slide=id.p)
 * [Writing a Research Statement for Graduate School and Fellowships](https://h2r.cs.brown.edu/writing-a-research-statement-for-graduate-school-and-fellowships/)
 * [How to Read a CS Research Paper?](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
+* [How to review a paper, Nato Lambert](https://www.natolambert.com/guides/how-to-review-a-paper)
 * [Reproducible Research Checklist](https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/Checklist/Reproducible%20Research%20Checklist.pdf)
 * [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
 * [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
