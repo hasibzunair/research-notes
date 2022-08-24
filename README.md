@@ -5,7 +5,6 @@
 * Research
 * Technical blog posts
 * Tutorials
-* new line
 
 I have listed the resources in the drop-down extensions below!
 
@@ -93,7 +92,7 @@ I have listed the resources in the drop-down extensions below!
 * [Everything gets a package? Yes, everything gets a package.](https://ericmjl.github.io/blog/2022/3/31/everything-gets-a-package-yes-everything-gets-a-package/)
 * [Classifier Project Template, 
 Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/templates/pl_classifier)
-
+* [1-on-1 related materials from my time as a manager, Eugene Yan](https://github.com/eugeneyan/1-on-1s)
 
 ### AI in Industry
 
