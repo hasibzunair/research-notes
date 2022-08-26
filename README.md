@@ -88,6 +88,8 @@ I have listed the resources in the drop-down extensions below!
 * [Documenting Python Code and Projects](https://testdriven.io/blog/documenting-python/)
 * [10 Useful Jupyter Notebook Extensions for a Data Scientist](https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e)
 * [How to improve software engineering skills as a researcher](https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/)
+* [Python best practices even data scientists should know, Yan Gobeil](https://medium.com/geekculture/python-best-practices-even-data-scientists-should-know-b86b925b8d6b)
+* [Three “Clean Code” tips that will make your dev team 50% more efficient, Ido Shveki](https://idoshveki.medium.com/three-clean-code-tips-that-will-make-your-dev-team-50-more-efficient-c4a3a0928914)
 * [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 * [Everything gets a package? Yes, everything gets a package.](https://ericmjl.github.io/blog/2022/3/31/everything-gets-a-package-yes-everything-gets-a-package/)
 * [Classifier Project Template, 
