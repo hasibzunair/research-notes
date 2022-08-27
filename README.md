@@ -37,7 +37,7 @@ I have listed the resources in the drop-down extensions below!
 * [How to be organized & productive during your PhD](https://github.com/wuningxi/Talks/blob/main/2020_How_to_be_organised_and_productive_during_your_PhD.pdf)
 * [How to Read Research Papers (Andrew Ng)](https://forums.fast.ai/t/how-to-read-research-papers-andrew-ng/66892)
 * [Career Advice / Reading Research Papers, Andrew Ng](https://youtu.be/733m6qBH-jI)
-* [How You Should Read Research Papers According To Andrew Ng (Stanford Deep Learning Lectures), Medium](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
+* [How You Should Read Research Papers According To Andrew Ng (Stanford Deep Learning Lectures)](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
 * [How to Get Your CVPR Paper Rejected?](https://personalinterests.lipingyang.org/wp-content/uploads/2019/03/How-to-get-your-CVPR-paper-rejected.pptx.pdf)
 * [How to do research, Bill Freeman, CSAIL, MIT](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
 * [Research Advice, Joseph Paul Cohen, Mila](https://josephpcohen.com/w/research-advice/)
