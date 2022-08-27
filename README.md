@@ -65,7 +65,8 @@ I have listed the resources in the drop-down extensions below!
 
 <details><summary>Technical blog posts</summary>
 
-### Computer vision and deep learning
+### CompVis/ML/DL
+
 * [The Early History of Computer Vision, Zbigatron](https://zbigatron.com/the-early-history-of-computer-vision/)
 * [Larry Roberts PhD Thesis, 1963](https://dspace.mit.edu/bitstream/handle/1721.1/11589/33959125-MIT.pdf?sequence=2&isAllowed=y)
 * [History of computer vision contests won by deep CNNs on GPU, Jürgen Schmidhuber](https://people.idsia.ch//~juergen/computer-vision-contests-won-by-gpu-cnns.html)
@@ -82,7 +83,8 @@ I have listed the resources in the drop-down extensions below!
 * [List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 * [Contrastive Representation Learning, Lilian Weng](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
 
-### Software
+### Software Engineering
+
 * [Python Debugger (My Gist)](https://gist.github.com/hasibzunair/b0d7509342e5ffe4f27d1fa242613334)
 * [Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 * [Open a GitHub notebook in Colab](https://colab.research.google.com/github/)
@@ -103,7 +105,8 @@ I have listed the resources in the drop-down extensions below!
 * [Classifier Project Template, 
 Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/templates/pl_classifier)
 
-### AI in Industry
+### AI/ML/DS in Industry
+
 * [What is the Team Data Science Process?](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
 * [Which Machine Learning Algorithm Should You Use By Problem Type?](https://medium.com/analytics-vidhya/which-machine-learning-algorithm-should-you-use-by-problem-type-a53967326566)
 * [Ultimate AI Strategy Guide](https://towardsdatascience.com/ultimate-ai-strategy-guide-9bfb5e9ecf4e)
