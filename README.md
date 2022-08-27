@@ -3,6 +3,7 @@
 ## Topics
 * Notes and Books
 * Research
+* Managing
 * Technical blog posts
 * Tutorials
 
@@ -55,6 +56,13 @@ I have listed the resources in the drop-down extensions below!
 
 </details>
 
+<details><summary>Managing</summary>
+
+* [1-on-1 related materials from my time as a manager, Eugene Yan](https://github.com/eugeneyan/1-on-1s) 
+* [How to Become an 80/20 Manager and Achieve Exceptional Results at Work](https://betterprogramming.pub/how-to-become-an-80-20-manager-and-achieve-exceptional-results-at-work-6314fed21ac6)
+* [Which analytics approaches to manage an Artificial Intelligence project? Quick guide for newbies.](https://medium.com/decathlondevelopers/which-analytics-approaches-to-manage-an-artificial-intelligence-project-quick-guide-for-newbies-1a4411a01b23)
+</details>
+
 <details><summary>Technical blog posts</summary>
 
 ### Computer vision and deep learning
@@ -94,14 +102,10 @@ I have listed the resources in the drop-down extensions below!
 * [Everything gets a package? Yes, everything gets a package.](https://ericmjl.github.io/blog/2022/3/31/everything-gets-a-package-yes-everything-gets-a-package/)
 * [Classifier Project Template, 
 Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/templates/pl_classifier)
-* [1-on-1 related materials from my time as a manager, Eugene Yan](https://github.com/eugeneyan/1-on-1s)
 
 ### AI in Industry
-
-* [How to Become an 80/20 Manager and Achieve Exceptional Results at Work](https://betterprogramming.pub/how-to-become-an-80-20-manager-and-achieve-exceptional-results-at-work-6314fed21ac6)
 * [What is the Team Data Science Process?](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
 * [Which Machine Learning Algorithm Should You Use By Problem Type?](https://medium.com/analytics-vidhya/which-machine-learning-algorithm-should-you-use-by-problem-type-a53967326566)
-* [Which analytics approaches to manage an Artificial Intelligence project? Quick guide for newbies.](https://medium.com/decathlondevelopers/which-analytics-approaches-to-manage-an-artificial-intelligence-project-quick-guide-for-newbies-1a4411a01b23)
 * [Ultimate AI Strategy Guide](https://towardsdatascience.com/ultimate-ai-strategy-guide-9bfb5e9ecf4e)
 * [How I Built and Deployed a Fun Serverless Machine Learning App](https://towardsdatascience.com/building-and-deploying-cartoonify-b4786b382d7e)
 * [I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
