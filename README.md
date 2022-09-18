@@ -52,6 +52,7 @@ I have listed the resources in the drop-down extensions below!
 ### Useful tools for research
 * [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
 * [EqnEditor](https://editor.codecogs.com/)
+* [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
 
 
 </details>
