@@ -86,6 +86,7 @@ I have listed the resources in the drop-down extensions below!
 
 ### Software Engineering
 
+* [The Zen of Python, Software Engineering Fundamentals, Harvard CS197](https://docs.google.com/document/d/1z5ELxpTw_U01jUB6-D6ILqHRPg6SSiLE7VFQryH3LPU/edit#)
 * [Python Debugger (My Gist)](https://gist.github.com/hasibzunair/b0d7509342e5ffe4f27d1fa242613334)
 * [Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 * [Open a GitHub notebook in Colab](https://colab.research.google.com/github/)
