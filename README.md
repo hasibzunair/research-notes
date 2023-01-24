@@ -22,7 +22,8 @@ I have listed the resources in the drop-down extensions below!
 </details>
 
 <details><summary>Research</summary>
-
+* [You and Your Research, Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+* [Tips for Success as a New Researcher, Alex Tamkin](https://www.alextamkin.com/essays/tips-for-new-researchers)
 * [Awesome Tips on various research topics by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips)
 * [Personal Rules of Productive Research, Eugene Vinitsky](https://rlblogging.notion.site/Personal-Rules-of-Productive-Research-44a456bacf7c4805a9ea417b9d3ab1b3)
 * [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
