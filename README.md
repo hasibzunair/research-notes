@@ -86,7 +86,6 @@ I have listed the resources in the drop-down extensions below!
 * [Zero-Shot Learning](https://cetinsamet.medium.com/zero-shot-learning-53080995d45f)
 * [List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 * [Contrastive Representation Learning, Lilian Weng](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
-* [HuggingFace Tasks: demos, use cases, models, datasets, and more](https://huggingface.co/tasks)
 
 ### Software Engineering
 
@@ -126,6 +125,8 @@ Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/tem
 * [Full Stack Deep Learning: Detecting deforestation from satellite images](https://towardsdatascience.com/detecting-deforestation-from-satellite-images-7aa6dfbd9f61)
 * [Effective testing for machine learning systems.](https://www.jeremyjordan.me/testing-ml/)
 * [Explore Computer Vision APIs, Apple Inc.](https://developer.apple.com/videos/play/wwdc2020/10673/)
+* [HuggingFace Tasks: demos, use cases, models, datasets, and more](https://huggingface.co/tasks)
+
 </details>
 
 <details><summary>Tutorials</summary>
