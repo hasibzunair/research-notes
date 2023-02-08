@@ -72,6 +72,7 @@ I have listed the resources in the drop-down extensions below!
 ### CompVis/ML/DL
 
 * [The Early History of Computer Vision, Zbigatron](https://zbigatron.com/the-early-history-of-computer-vision/)
+* [Rocket AI: 2016’s Most Notorious AI Launch and the Problem with AI Hype](https://medium.com/the-mission/rocket-ai-2016s-most-notorious-ai-launch-and-the-problem-with-ai-hype-d7908013f8c9)
 * [Larry Roberts PhD Thesis, 1963](https://dspace.mit.edu/bitstream/handle/1721.1/11589/33959125-MIT.pdf?sequence=2&isAllowed=y)
 * [History of computer vision contests won by deep CNNs on GPU, Jürgen Schmidhuber](https://people.idsia.ch//~juergen/computer-vision-contests-won-by-gpu-cnns.html)
 * [A Revised History of Deep Learning, Jean de Dieu Nyandwi](https://www.getrevue.co/profile/deeprevision/issues/a-revised-history-of-deep-learning-issue-1-1145664)
