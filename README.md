@@ -53,6 +53,7 @@ I have listed the resources in the drop-down extensions below!
 * [Research Statement, James Hays](http://www.cs.cmu.edu/~jhhays/info/hays_research.pdf)
 
 ### Useful tools for research
+* [Wordtune - Your thoughts in words](https://www.wordtune.com/)
 * [Detexify LaTeX](http://detexify.kirelabs.org/classify.html)
 * [EqnEditor](https://editor.codecogs.com/)
 * [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
