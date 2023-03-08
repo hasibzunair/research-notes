@@ -116,12 +116,16 @@ Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/tem
 
 * [What is the Team Data Science Process?](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
 * [What is MLOps?, Databricks](https://www.databricks.com/glossary/mlops)
+* [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning.](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
 * [Which Machine Learning Algorithm Should You Use By Problem Type?](https://medium.com/analytics-vidhya/which-machine-learning-algorithm-should-you-use-by-problem-type-a53967326566)
 * [Ultimate AI Strategy Guide](https://towardsdatascience.com/ultimate-ai-strategy-guide-9bfb5e9ecf4e)
 * [How I Built and Deployed a Fun Serverless Machine Learning App](https://towardsdatascience.com/building-and-deploying-cartoonify-b4786b382d7e)
 * [I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
 * [10 tips to improve your machine learning models with TensorFlow](https://medium.com/decathlondevelopers/10-tips-to-improve-your-machine-learning-models-with-tensorflow-ba7c724761e2)
 * [Introducing DecaVision to train image classifiers with Google’s free TPUs](https://medium.com/decathlondevelopers/introducing-decavision-to-train-image-classifiers-with-googles-free-tpus-8d216db8ad53)
+* [How to become a skillful Data Scientist following the 
+Decathlon
+ Data Science Development Program, Alfonso Carta](https://medium.com/decathlontechnology/how-to-become-a-skillful-data-scientist-decathlon-53bb738bd58)
 * [Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
 * [Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
 * [Data Scientists Don't Care About Kubernetes](https://determined.ai/blog/data-scientists-dont-care-about-kubernetes/)
