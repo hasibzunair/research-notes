@@ -160,6 +160,7 @@ Decathlon
 * [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
 * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en)
 
 </details>
 
