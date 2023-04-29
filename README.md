@@ -148,7 +148,8 @@ Decathlon
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [CS229: Machine Learning, 2021](http://cs229.stanford.edu/)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-* [Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University), 2021](https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html)
+* [Deep Learning, Francois Fleuret](https://fleuret.org/dlc/)
+* [Deep Learning in Computer Vision with Prof. Kosta Derpanis (York University), 2021](https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/)
 * [Data Preparation and Feature Engineering in ML](https://developers.google.com/machine-learning/data-prep/)
 * [AIMS 2020, class on Visual Recognition by Georgia Gkioxari](https://github.com/gkioxari/aims2020_visualrecognition)
 * [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
@@ -163,6 +164,9 @@ Decathlon
 * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en)
+* [Roboflow tutorials on using SOTA computer vision models](https://github.com/roboflow/notebooks)
+* [Hugging Face Transformers Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
+* []()
 
 </details>
 
