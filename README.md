@@ -166,7 +166,6 @@ Decathlon
 * [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en)
 * [Roboflow tutorials on using SOTA computer vision models](https://github.com/roboflow/notebooks)
 * [Hugging Face Transformers Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
-* []()
 
 </details>
 
