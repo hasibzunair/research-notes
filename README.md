@@ -119,6 +119,8 @@ Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/tem
 * [What is the Team Data Science Process?](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
 * [How to Write Design Docs for Machine Learning Systems, Eugene Yan](https://github.com/eugeneyan/ml-design-docs)
 * [What is MLOps?, Databricks](https://www.databricks.com/glossary/mlops)
+* [Building efficient Experimentation Environments for ML Projects.
+](https://www.newsletter.swirlai.com/p/sai-notes-05-building-efficient-experimentation?utm_source=ground-truth.beehiiv.com&utm_medium=referral&utm_campaign=computer-vision-newsletter-37)
 * [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning.](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
 * [Which Machine Learning Algorithm Should You Use By Problem Type?](https://medium.com/analytics-vidhya/which-machine-learning-algorithm-should-you-use-by-problem-type-a53967326566)
 * [Ultimate AI Strategy Guide](https://towardsdatascience.com/ultimate-ai-strategy-guide-9bfb5e9ecf4e)
