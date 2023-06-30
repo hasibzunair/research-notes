@@ -146,6 +146,7 @@ Decathlon
 
 ### Online Courses
 
+* [CAP6412 Advanced Computer Vision - Spring 2023](https://www.youtube.com/playlist?app=desktop&list=PLd3hlSJsX_In7qup928HaHmilugBGctuF)
 * [Harvard CS197: AI Research Experiences](https://www.cs197.seas.harvard.edu/)
 * [Deep Learning for Computer Vision, Justin Johnson, UMichigan, 2020](https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
