@@ -53,6 +53,7 @@ I have listed the resources in the drop-down extensions below!
 * [AI research: the unreasonably narrow path and how not to be miserable](https://youtu.be/0blQp0_9NwY)
 * [Research Statement, Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/2019_researchstatement.pdf)
 * [Research Statement, James Hays](http://www.cs.cmu.edu/~jhhays/info/hays_research.pdf)
+* [Choose Your Weapon: Survival Strategies for Depressed AI Academics, Togelius et. al.](https://arxiv.org/pdf/2304.06035.pdf)
 
 ### Useful tools for research
 * [Wordtune - Your thoughts in words](https://www.wordtune.com/)
