@@ -160,6 +160,7 @@ Decathlon
 * [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
 * [MLOps-Basics, 2022](https://github.com/graviraja/MLOps-Basics)
 * [Lightning Bits: Engineering for Researchers](https://github.com/PyTorchLightning/engineering-class)
+* [Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development)
 
 ### Online resources
 
