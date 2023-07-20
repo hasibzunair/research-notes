@@ -61,6 +61,7 @@ I have listed the resources in the drop-down extensions below!
 * [EqnEditor](https://editor.codecogs.com/)
 * [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
 * [Convert images of equations into LaTeX code](https://huggingface.co/spaces/hasibzunair/LaTeX-OCR-demo)
+* [Top AI Tools for Business, The Neuron](https://www.theneuron.ai/top-tools?utm_source=www.theneurondaily.com&utm_medium=referral&utm_campaign=level-up-at-work)
 
 </details>
 
