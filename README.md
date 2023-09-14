@@ -141,6 +141,7 @@ Decathlon
 * [Effective testing for machine learning systems.](https://www.jeremyjordan.me/testing-ml/)
 * [Explore Computer Vision APIs, Apple Inc.](https://developer.apple.com/videos/play/wwdc2020/10673/)
 * [HuggingFace Tasks: demos, use cases, models, datasets, and more](https://huggingface.co/tasks)
+* [Writing clean and optimized Python code, Youssef Hosni](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 
 </details>
 
