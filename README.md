@@ -95,6 +95,7 @@ I have listed the resources in the drop-down extensions below!
 
 ### Software Engineering
 
+* [Writing clean and optimized Python code, Youssef Hosni](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 * [Who could be your Jeff Dean?](https://medium.com/swlh/who-could-be-your-jeff-dean-6b99c25387d0)
 * [The Zen of Python, Software Engineering Fundamentals, Harvard CS197](https://docs.google.com/document/d/1z5ELxpTw_U01jUB6-D6ILqHRPg6SSiLE7VFQryH3LPU/edit#)
 * [Python Debugger (My Gist)](https://gist.github.com/hasibzunair/b0d7509342e5ffe4f27d1fa242613334)
@@ -141,7 +142,6 @@ Decathlon
 * [Effective testing for machine learning systems.](https://www.jeremyjordan.me/testing-ml/)
 * [Explore Computer Vision APIs, Apple Inc.](https://developer.apple.com/videos/play/wwdc2020/10673/)
 * [HuggingFace Tasks: demos, use cases, models, datasets, and more](https://huggingface.co/tasks)
-* [Writing clean and optimized Python code, Youssef Hosni](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 
 </details>
 
