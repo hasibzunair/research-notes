@@ -96,6 +96,7 @@ I have listed the resources in the drop-down extensions below!
 ### Software Engineering
 
 * [Writing clean and optimized Python code, Youssef Hosni](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
+* [Python best practices even data scientists should know, Yan Gobeil](https://medium.com/geekculture/python-best-practices-even-data-scientists-should-know-b86b925b8d6b)
 * [Who could be your Jeff Dean?](https://medium.com/swlh/who-could-be-your-jeff-dean-6b99c25387d0)
 * [The Zen of Python, Software Engineering Fundamentals, Harvard CS197](https://docs.google.com/document/d/1z5ELxpTw_U01jUB6-D6ILqHRPg6SSiLE7VFQryH3LPU/edit#)
 * [Python Debugger (My Gist)](https://gist.github.com/hasibzunair/b0d7509342e5ffe4f27d1fa242613334)
@@ -111,7 +112,6 @@ I have listed the resources in the drop-down extensions below!
 * [Documenting Python Code and Projects](https://testdriven.io/blog/documenting-python/)
 * [10 Useful Jupyter Notebook Extensions for a Data Scientist](https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e)
 * [How to improve software engineering skills as a researcher](https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/)
-* [Python best practices even data scientists should know, Yan Gobeil](https://medium.com/geekculture/python-best-practices-even-data-scientists-should-know-b86b925b8d6b)
 * [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 * [Everything gets a package? Yes, everything gets a package.](https://ericmjl.github.io/blog/2022/3/31/everything-gets-a-package-yes-everything-gets-a-package/)
 * [Classifier Project Template, 
