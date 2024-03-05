@@ -116,6 +116,7 @@ I have listed the resources in the drop-down extensions below!
 * [Everything gets a package? Yes, everything gets a package.](https://ericmjl.github.io/blog/2022/3/31/everything-gets-a-package-yes-everything-gets-a-package/)
 * [Classifier Project Template, 
 Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/templates/pl_classifier)
+* [r/EngineeringResumes](https://www.reddit.com/r/EngineeringResumes/wiki/index/?rdt=33156)
 
 ### AI/ML/DS in Industry
 
