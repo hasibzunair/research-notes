@@ -19,6 +19,9 @@ I have listed the resources in the drop-down extensions below!
 * [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [The Good Research Code Handbook, Patrick Mineault](https://goodresearch.dev/)
+* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
+* [Math for Machine Learning, Garret Thomas](https://gwthomas.github.io/docs/math4ml.pdf)
+* [The Matrix Calculus You Need for Deep Learning](https://arxiv.org/abs/1802.01528)
 
 </details>
 
