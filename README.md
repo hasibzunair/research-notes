@@ -26,7 +26,7 @@ I have listed the resources in the drop-down extensions below!
 </details>
 
 <details><summary>Research</summary>
-
+* [aideadlin.es](https://aideadlin.es/?sub=ML,CV)
 * [You and Your Research, Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [Tips for Success as a New Researcher, Alex Tamkin](https://www.alextamkin.com/essays/tips-for-new-researchers)
 * [Awesome Tips on various research topics by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips)
