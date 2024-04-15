@@ -121,6 +121,7 @@ I have listed the resources in the drop-down extensions below!
 * [Classifier Project Template, 
 Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/templates/pl_classifier)
 * [r/EngineeringResumes](https://www.reddit.com/r/EngineeringResumes/wiki/index/?rdt=33156)
+* [From Microsoft Intern to Meta Staff Engineer: Raviraj Achar](https://www.developing.dev/p/from-microsoft-intern-to-meta-staff)
 
 ### AI/ML/DS in Industry
 
