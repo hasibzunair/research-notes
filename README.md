@@ -58,6 +58,7 @@ I have listed the resources in the drop-down extensions below!
 * [Research Statement, Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/2019_researchstatement.pdf)
 * [Research Statement, James Hays](http://www.cs.cmu.edu/~jhhays/info/hays_research.pdf)
 * [Choose Your Weapon: Survival Strategies for Depressed AI Academics, Togelius et. al.](https://arxiv.org/pdf/2304.06035.pdf)
+* [Compilation of Advice for ML PhD Students](https://yongzx.github.io/blog/posts/PhD-Advice/)
 
 ### Useful tools for research
 * [Wordtune - Your thoughts in words](https://www.wordtune.com/)
