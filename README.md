@@ -176,6 +176,7 @@ Decathlon
 ### Online resources
 
 * [Image Kernels](https://setosa.io/ev/image-kernels/)
+* [Convolution Visualizer](https://ezyang.github.io/convolution-visualizer/)
 * [MLOps guide, Chip Huyen](https://huyenchip.com/mlops/)
 * [A Complete Machine Learning Package 2021, Jean de Dieu Nyandwi](https://github.com/Nyandwi/machine_learning_complete)
 * [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
