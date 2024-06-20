@@ -79,7 +79,7 @@ I have listed the resources in the drop-down extensions below!
 * [Which analytics approaches to manage an Artificial Intelligence project? Quick guide for newbies.](https://medium.com/decathlondevelopers/which-analytics-approaches-to-manage-an-artificial-intelligence-project-quick-guide-for-newbies-1a4411a01b23)
 </details>
 
-<details><summary>Technical blog posts</summary>
+<details><summary>Technical articles</summary>
 
 ### CompVis/ML/DL
 
