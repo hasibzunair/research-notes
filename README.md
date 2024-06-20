@@ -99,6 +99,7 @@ I have listed the resources in the drop-down extensions below!
 * [Zero-Shot Learning](https://cetinsamet.medium.com/zero-shot-learning-53080995d45f)
 * [List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 * [Contrastive Representation Learning, Lilian Weng](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
+* [Annotated Research Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 ### Software Engineering
 
