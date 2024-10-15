@@ -166,6 +166,7 @@ Decathlon
 * [CS229: Machine Learning, 2021](http://cs229.stanford.edu/)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 * [Deep Learning, Francois Fleuret](https://fleuret.org/dlc/)
+* [Computer Vision with Prof. Kosta Derpanis](https://www.eecs.yorku.ca/~kosta/Courses/EECS4422/)
 * [Deep Learning in Computer Vision with Prof. Kosta Derpanis (York University), 2021](https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/)
 * [Data Preparation and Feature Engineering in ML](https://developers.google.com/machine-learning/data-prep/)
 * [AIMS 2020, class on Visual Recognition by Georgia Gkioxari](https://github.com/gkioxari/aims2020_visualrecognition)
