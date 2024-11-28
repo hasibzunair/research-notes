@@ -129,6 +129,7 @@ Sebastian Raschka](https://github.com/rasbt/machine-learning-notes/tree/main/tem
 
 ### AI/ML/DS in Industry
 
+* [Building Better ML Systems — Chapter 1: Every Project Must Start with a Plan, Olga Chernytska](https://towardsdatascience.com/building-better-ml-systems-chapter-1-every-project-must-start-with-a-plan-907a36774a32)
 * [What is the Team Data Science Process?](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
 * [How to Write Design Docs for Machine Learning Systems, Eugene Yan](https://github.com/eugeneyan/ml-design-docs)
 * [What is MLOps?, Databricks](https://www.databricks.com/glossary/mlops)
